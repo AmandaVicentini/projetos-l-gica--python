@@ -1,9 +1,3 @@
-# Exercício 1
-
-# Jogo da adivinhação
-# - 10 tentativas para adivinhar um número sorteado entre 1 e 100
-# - Computador informa se o número é maior ou menor que o digitado
-
 import random
 
 sorteado = random.randint(1,100)
